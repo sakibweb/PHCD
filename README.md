@@ -10,3 +10,8 @@ PHCD is a PHP CDN Package Manager designed to simplify the management of JavaScr
 - Set HTTP response headers.
 - Manage file downloads from the CDN.
 - List and update installed packages.
+
+## Required
+
+- PHRO [PHRO is PHP Route / Router Library] https://github.com/sakibweb/PHRO
+- PHDE [PHDE is a PHP Development Environment utility class.] https://github.com/sakibweb/PHDE
