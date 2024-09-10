@@ -45,6 +45,7 @@ class PHCD {
         });
 
         PHRO::post(self::$state, function() {
+            PHDE::debug(false);
             self::handleRequest();
         });
     }
